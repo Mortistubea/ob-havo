@@ -1,0 +1,9 @@
+Django = 5.1.2
+requwsts = 2.32.3
+bs4 = 0.0.2
+Obhavo = 0.4
+
+
+
+
+
